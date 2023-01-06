@@ -1,4 +1,17 @@
 # polybar-config-me
-Polybar configuration to my liking.
+Polybar configuration.
 
 ![polybar](/polybar.png)
+
+```
+git clone https://github.com/garekox/polybar-config-me.git
+```
+```
+cd polybar-config-me
+```
+```
+chmod +x launch.sh
+```
+```
+./launch.sh
+```
