@@ -10,8 +10,8 @@ git clone https://github.com/garekox/polybar-config-me.git
 cd polybar-config-me
 ```
 ```
-chmod +x launch.sh
+chmod +x install.sh
 ```
 ```
-./launch.sh
+./install.sh
 ```
