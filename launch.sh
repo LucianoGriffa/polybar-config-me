@@ -15,7 +15,7 @@ polybar log -c ~/.config/polybar/current.ini &
 polybar secondary -c ~/.config/polybar/current.ini &
 ## polybar terciary -c ~/.config/polybar/current.ini &
 polybar quaternary -c ~/.config/polybar/current.ini &
-## polybar quinary -c ~/.config/polybar/current.ini &
+polybar quinary -c ~/.config/polybar/current.ini &
 
 ## Right bar
 polybar top -c ~/.config/polybar/current.ini &
